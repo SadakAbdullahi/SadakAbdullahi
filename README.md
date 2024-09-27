@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile programming**
 
-- 🌱 I’m currently learning **JavaScript,React,Node js,PHP&MYSQL,java Spring, Flutter....**
+- 🌱 I’m currently learning **JavaScript,React,Node js,PHP&MYSQL,java Spring, Flutter and so on....**
 
 - 👯 I’m looking to collaborate on **Many projects**
 
