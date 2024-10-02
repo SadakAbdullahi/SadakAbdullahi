@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadak Abdullahi Ga'al</h1>
-<h3 align="center">A passionate MeanStack developer from Somalia</h3>
+<h3 align="center">A passionate MeRnStack developer from Somalia</h3>
 
 - 🔭 I’m currently working on **Mobile programming**
 
