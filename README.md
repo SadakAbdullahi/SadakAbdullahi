@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Mobile programming**
 
-- 🌱 I’m currently learning **JavaScript,React js,Node js,Flutter,PHP&MYSQL,java Spring, Data Structure using Java, Dart,Research methodology and so on👉....**
+- 🌱 I’m currently learning **JavaScript,React js,Node js,Flutter,PHP & MYSQL,java Spring, Data Structure using Java, Dart,Data Science,  
+ Research methodology and so on👉....**
 
 - 👯 I’m looking to collaborate on **Many projects**
 
