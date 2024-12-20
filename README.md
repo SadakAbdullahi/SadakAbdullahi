@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/saadaqsidiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadaqsidiq" height="30" width="40" /></a>
- <a href="https://LinkedIn.com/Sadak Abdullahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="https://www.linkedin.com/in/sadak-abdullahi-2a8408323/" height="30" width="40" /></a>
 </p>
 <p align="left">
  <a href="https://LinkedIn.com/Sadak Abdullahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="https://www.linkedin.com/in/sadak-abdullahi-2a8408323/" height="30" width="40" /></a>
